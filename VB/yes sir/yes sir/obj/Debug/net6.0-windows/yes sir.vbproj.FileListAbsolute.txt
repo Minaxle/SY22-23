@@ -1,0 +1,21 @@
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.vbproj.AssemblyReference.cache
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir_MarkupCompile.cache
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir_MarkupCompile.lref
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\bin\Debug\net6.0-windows\yes sir.exe
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\bin\Debug\net6.0-windows\yes sir.deps.json
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\bin\Debug\net6.0-windows\yes sir.runtimeconfig.json
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\bin\Debug\net6.0-windows\yes sir.dll
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\bin\Debug\net6.0-windows\yes sir.pdb
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.g.resources
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.AssemblyInfoInputs.cache
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.AssemblyInfo.vb
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.vbproj.CoreCompileInputs.cache
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.dll
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\refint\yes sir.dll
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.pdb
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\yes sir.genruntimeconfig.cache
+C:\Users\jrhar687\Desktop\SY22-23\VB\yes sir\yes sir\obj\Debug\net6.0-windows\ref\yes sir.dll
